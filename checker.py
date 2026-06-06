@@ -1,7 +1,10 @@
 
-age = int(input("Enter your age: "))
+age = int(input("Enter your age : "))
+
 
 if age > 18:
-    print("Ok you're fine")
+          print("Ok, You're fine")
+
 else:
-    print ("Sorry you cannot continue")
+    print("Sorry you cannot continue")
+
